@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme de Aquino 👋, tenho 29 anos e sou de SP/Capital.
 
-### Sou estudante de Desenvolvimento de Software com formação em Banco de Dados.
+### Sou estudante de Desenvolvimento de Software voltado para Web com formação em Tecnologia em Banco de Dados.
 
 #### atualmente meu foco tem se divido entre Java <img align="center" alt="Gui-Java" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> e o ecossistema Spring <img align="center" alt="Gui-Spring" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> e React <img align="center" alt="Gui-React" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> no Front-End.
 
