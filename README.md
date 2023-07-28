@@ -23,12 +23,7 @@
   <img align="center" alt="Gui-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
-  
- <div align="right">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/265/technologist-medium-dark-skin-tone_1f9d1-1f3fe-200d-1f4bb.png">
- </div>
- 
-  
+
 <div>
    <a href="https://www.linkedin.com/in/guilherme-de-aquino-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermeaqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
