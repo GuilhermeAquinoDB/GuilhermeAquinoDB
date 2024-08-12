@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme de Aquino 👋, tenho 30 anos e sou de SP/Capital.
+## Olá! Eu sou o Guilherme de Aquino 👋, tenho 31 anos e sou de SP/Capital.
 
 ### Sou estudante de Desenvolvimento de Software voltado para Web com formação em Banco de Dados.
 
