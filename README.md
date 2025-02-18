@@ -1,31 +1,50 @@
-## Olá! Eu sou o Guilherme de Aquino 👋, tenho 31 anos e sou de SP/Capital.
+## 👋 Olá! Eu sou o Guilherme de Aquino
 
-### Sou estudante de Desenvolvimento de Software voltado para Web com formação em Banco de Dados.
+🚀 **Desenvolvedor Full Stack | Java | React | Cloud**  
+Apaixonado por tecnologia e inovação, comecei minha trajetória profissional em diferentes áreas antes de me especializar no desenvolvimento de software. Hoje, meu foco é criar aplicações web escaláveis e eficientes com **Java (Spring Boot), React, Next.js e AWS**.  
 
-#### atualmente meu foco tem se divido entre Java <img align="center" alt="Gui-Java" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> e o ecossistema Spring <img align="center" alt="Gui-Spring" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> e React <img align="center" alt="Gui-React" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> no Front-End.
+🎯 **Destaques da minha jornada:**  
+✅ Formação em **Banco de Dados** pela UNINOVE  
+✅ Experiência em desenvolvimento Full Stack com **Java, Spring Boot, React, Next.js e TypeScript**  
+✅ Entrega de um **MVP** para uma plataforma que impactou **+8.000 mulheres empreendedoras**  
+✅ Especialização em **Computação em Nuvem** com **Fundamentos AWS pela Escola da Nuvem**  
+✅ Desenvolvimento de projetos reais, como uma **rede social para fomentar a agricultura sustentável**  
 
+---
+
+### 🛠️ **Tecnologias e Ferramentas**
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+### 📊 **GitHub Stats**
 <div align="center">
   <a href="https://github.com/guilhermeAquinoDB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeAquinoDB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeAquinoDB&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeAquinoDB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeAquinoDB&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-  
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Gui-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Gui-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Gui-MySql" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Gui-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gui-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gui-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-<br>
-<hr>
+
+---
+
+### 📫 **Vamos conectar?**
 <div>
-   <a href="https://www.linkedin.com/in/guilherme-de-aquino-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermeaqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-de-aquino-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:guilhermeaqui@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
