@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Guilherme de Aquino
 
 🚀 **Desenvolvedor Full Stack | Java | React | Cloud**  
-Apaixonado por tecnologia e inovação, comecei minha trajetória profissional em diferentes áreas antes de me aventurar no mnudo do desenvolvimento de software. Hoje, meu foco é criar aplicações web escaláveis e eficientes com **Java (Spring Boot), React e CLOUD**.  
+Apaixonado por tecnologia e inovação, comecei minha trajetória profissional em diferentes áreas antes de me aventurar no mundo do desenvolvimento de software. Hoje, meu foco é criar aplicações web escaláveis e eficientes com **Java (Spring Boot), React e CLOUD**.  
 
 🎯 **Destaques da minha jornada:**  
 ✅ Formação em **Banco de Dados** pela UNINOVE  
